@@ -12,6 +12,7 @@ const {interface, bytecode} = require('../compile');
 
 let INITIAL_MESSAGE = ['Hey web3 :)'];
 let accounts;
+let inbox;
 
 beforeEach( async() => {
   /**Get a list of accounts*/
