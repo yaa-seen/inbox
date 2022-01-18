@@ -22,4 +22,11 @@ Then you can run the command bellow to see the objects that composes our contrac
 node compile.js
 ```
 You are supposed to see something like this : 
+<img src="compilation outputs/compilation-output.png"/>
 
+There is 3 tests, to run those tests, tap the command : 
+```console
+npm run test
+```
+This will give : 
+<img src="compilation outputs/test-output.png"/>
