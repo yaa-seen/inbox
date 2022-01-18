@@ -29,4 +29,5 @@ There is 3 tests, to run those tests, tap the command :
 npm run test
 ```
 This will give : 
-<img src="compilation outputs/test-output.png"/>
+![alt text](https://github.com/yaseenix/inbox/blob/master/compilation%20outputs/test_output.png?raw=true)
+
