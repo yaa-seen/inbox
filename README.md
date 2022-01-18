@@ -24,7 +24,7 @@ node compile.js
 You are supposed to see something like this : 
 <img src="compilation outputs/compilation-output.png"/>
 
-There is 3 tests, to run those tests, tap the command : 
+There is 3 tests, to run those tests, tap the command
 ```console
 npm run test
 ```
