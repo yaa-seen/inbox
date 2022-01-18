@@ -6,13 +6,13 @@ contract Inbox {
     string public message;
 
   /**A constructor*/
-    constructor(string memory _message) public {
-        message = _message;
+    constructor(string memory initialMessage) public {
+        message = initialMessage;
     }
 
-    function setMessage(string memory _message)
+    function setMessage(string memory newMessage)
     public
     {
-        message = _message;
+        message = newMessage;
     }
 }
